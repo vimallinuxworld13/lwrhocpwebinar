@@ -1,5 +1,5 @@
 <?php
 
-print "hi all welcome to LW \n";
+print "openshift h    jhhhhhh hi all welcome to LW \n";
 
 ?>
